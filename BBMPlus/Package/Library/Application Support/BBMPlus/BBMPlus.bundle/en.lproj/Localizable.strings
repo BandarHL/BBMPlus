@@ -1,0 +1,48 @@
+"Chat_Settings" = "Chat Settings";
+"BBM_needs_to_relaunch" = "You need Relaunch BBM to apply changes";
+// الزر //
+"Unlimited_Pings" = "Unlimited Pings";
+// وصف الزر//
+"Send_Unlimited_Pings" = "Send Unlimited pings!!";
+
+// الزر //
+"Hide_Read_Status" = "Hide Read Status";
+// وصف الزر//
+"hide_Raed_Status_on_chat" = "Hide raed status on chat";
+
+// الزر //
+"Hide_Typing" = "Hide typing";
+// وصف الزر //
+"hide_typing_on_chat" = "Hide typing on chat";
+
+// الزر //
+"Timed_Messages_Forever" = "Timed messages forever";
+// وصف الزر //
+"not_finished_Time_Message" = "Keep timed messaging forever";
+
+// الزر //
+"Hide_Screen_Shot" = "Hide screen shot";
+// وصف الزر //
+"Hide_Screen_Shot_to_the_other_party" = "Hide screen shot notified other party";
+
+// User InterFace //
+"User_Interface" = "User Interface Settings";
+
+// الزر //
+"Confirm_voice_Call_and_Video_Call" = "Confirm voice & video call";
+// وصف الزر //
+"Show_confirmation_message_when_pressed_Voice_Button_or_Video_call_Button" = "Alert to confirm voice and video calling!";
+
+"hide_Status_Bar" = "Hide status bar";
+"Disable_Ads" = "Disable ads";
+"Full_Screen_For_iPAD" = "Full screen for iPad";
+
+// الزر //
+"Hide_Voice_call_Button" = "Hide Voice call button ";
+// وصف الزر //
+"hide_voice_call_button_in_chat" = "Hide Voice call button inside Chats ";
+
+// الزر //
+"Hide_Video_call_Button" = "Hide Video call button";
+// وصف الزر //
+"hide_video_call_button_in_chat" = "Hide Video call button inside Chats";

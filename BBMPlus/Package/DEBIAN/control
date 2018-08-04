@@ -1,0 +1,9 @@
+Package: com.BandarHL.BBMPlus
+Name: BBMPlus
+Version: 2.1
+Description: add more futuer for bbm app
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Author: BandarHL
+dev: BandarHL
